@@ -1,0 +1,21 @@
+.Mainb{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.cropped {
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover;
+    object-position: 25% 25%; 
+    }
+
+.neck {
+    display: flex;
+    flex-direction:column;
+    color: #595959;
+    width: auto;
+    height: auto;
+}
